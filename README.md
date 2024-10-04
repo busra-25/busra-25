@@ -1,5 +1,5 @@
 ## Hi there I'm Büsra 👋
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on Data Analysis
 - 🌱 I’m currently learning Machine Learning
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
